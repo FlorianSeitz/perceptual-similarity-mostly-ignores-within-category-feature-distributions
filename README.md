@@ -1,4 +1,4 @@
-# Perceptual Similarity Mostly Ignores Within-Category Feature Distributions: Evidence From Computational Modeling of Human Categorizations
+## Perceptual Similarity Mostly Ignores Within-Category Feature Distributions: Evidence From Computational Modeling of Human Categorizations
 
 ### Contributing Authors
 Seitz, Florian I.; Jarecki, Jana B.; Rieskamp, Joerg
