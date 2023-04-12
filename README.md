@@ -1,20 +1,16 @@
-# Testing Three Coping Strategies for Time Pressure in Categorizations and Similarity Judgments
+# Perceptual Similarity Mostly Ignores Within-Category Feature Distributions: Evidence From Computational Modeling of Human Categorizations
 
 ### Contributing Authors
-Seitz, Florian I.; von Helversen, Bettina; Albrecht, Rebecca; Rieskamp, Joerg; Jarecki, Jana B.
+Seitz, Florian I.; Jarecki, Jana B.; Rieskamp, Joerg
 
 ### Dates
-Data collection began in March 2019 (Studies 1 and 2) and ended in September 2022 (Study 3). Paper in press.
+Data collection began in February 2021 and ended in May 2021. Paper under review.
 
 ### Abstract
-This article compares three psychological mechanisms to make multi-attribute inferences under time pressure in the domains of categorization and similarity judgments. Specifically, we test if people under time pressure attend to fewer object features (attention focus), if they respond less precisely (lower choice sensitivity), or if they simplify a psychological similarity function (simplified similarity). The simpler psychological similarity considers the number of matching features but ignores the actual feature value differences. We conducted three experiments (two of them preregistered) in which we manipulated time pressure: one was a categorization task, which was designed based on optimal experimental design principles, and the other two involved a similarity judgment task. Computational cognitive modeling following an exemplar-similarity framework showed that the behavior of most participants under time pressure is in line with a lower choice sensitivity, this means less precise response selection, especially when people make similarity judgments. We find that the variability of participants’ behavior increases with time pressure, to a point where participants are unlikely to make inferences anymore but instead start choosing readily available response options repeatedly. These findings are consistent with related research in other cognitive domains, such as risky choices, and add to growing evidence that time pressure and other forms of cognitive load do not necessarily alter core cognitive processes themselves but rather affect the precision of response selection.
+Categorizing objects is a fundamental human skill, which entails assigning objects to categories based on features. Within categories, the objects are distributed, meaning that in each category the object features may vary and correlate, and processing this distribution can improve categorizations. Whether people use the within-category feature distribution information to categorize objects is unclear due to mixed evidence. To investigate the role of within-category feature distributions in categorization, we designed two experiments, manipulating the variances and correlations of features within categories through simulation-based optimal experimental design. Using computational cognitive modeling in an exemplar-similarity framework, we compared a psychological process that ignores the within-category feature distributions (Euclidean similarity) to a process that considers the within-category feature distributions (Mahalanobis similarity). The experiments (both Ns = 43) clearly showed that most participants did not consider the within-category feature distributions, and their behavior is best described by the simpler Euclidean similarity. Nevertheless, a minority of participants were described by the Mahalanobis similarity, which considers the within-category feature distributions, even though their categorizations were less evident than those of the participants described by the Euclidean similarity. In sum, the results suggest that in categorization the psychological processing of similarities between objects is mostly invariant to the distribution from which the objects stem, which may be because it is computationally costly to estimate the distribution of features in categories.
 
 ### Publication
-Seitz, von Helversen, Albrecht, Rieskamp, & Jarecki (in press)
+Seitz, Jarecki, & Rieskamp (under review)
 
 ### Funding
 This work was supported by the University of Basel.
-
-### Notes
-The reanalysis was conducted on data used in Will et al. (2015), Experiment 1, and originally reported in Milton et al. (2008), Experiment 5.
-
