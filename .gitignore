@@ -4,12 +4,6 @@ data/*
 
 consentforms/
 
-# These files are too big
-similarity_cognitive_models_15.rds
-similarity_cognitive_models_30.rds
-similarity_cognitive_models_50.rds
-similarity_pars_likelihoods.csv
-
 *.loc
 *.aux
 *.log
@@ -22,7 +16,5 @@ similarity_pars_likelihoods.csv
 *.pdf
 
 !/analyses/figures/*.pdf
-
-_R1_manuscript.tex
 
 .Rproj.user
